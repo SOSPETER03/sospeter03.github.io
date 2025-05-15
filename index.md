@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="snw_logo.png" width="150" alt="SNW Logo" />
+</p>
+
+
 # 👋 Hi, I'm Sospeter Njenga
 
 Aspiring Data Scientist and BSc. Statistics graduate passionate about forecasting, financial analytics, and Python-based modeling.
