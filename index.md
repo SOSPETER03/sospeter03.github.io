@@ -1,3 +1,4 @@
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
 <p align="center">
   <img src="snw_logo.png" width="150" alt="SNW Logo" />
 </p>
